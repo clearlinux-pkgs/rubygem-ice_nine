@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-03-01 17:06:03.572717
+# {'~>0.11.0'}
+watchurl=https://rubygems.org/gems/ice_nine/versions/(0\.[0-1][0-1](\.[0-9]{1,2})?)
