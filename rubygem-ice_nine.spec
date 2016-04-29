@@ -4,7 +4,7 @@
 #
 Name     : rubygem-ice_nine
 Version  : 0.11.2
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/ice_nine-0.11.2.gem
 Source0  : https://rubygems.org/downloads/ice_nine-0.11.2.gem
 Summary  : No detailed summary available
